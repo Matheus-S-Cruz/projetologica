@@ -1,0 +1,11 @@
+body {
+    background-color: #1e0133;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Cascadia Code', sans-serif;
+  }
+  .codigos{
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 20px;
+  }
